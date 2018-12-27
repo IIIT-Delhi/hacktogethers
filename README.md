@@ -1,6 +1,6 @@
 # HackTogether(s)
 
-HackTogethers are get-togethers where we propose new problems that the Byld community is collectively interested in, work on solutions, work on existing projects, and most imporatantly -- document and commit all the work done so that someone can build atop it.
+HackTogethers are get-togethers where we propose new problems that the Byld community is collectively interested in, work on solutions, work on existing projects, and most importantly -- document and commit all the work done so that someone can build atop it.
 
 Ideas which fall under the scope of hacktogethers include institute portals; utilities that are useful for academics, campus life, or Byld activities and sessions.
 
@@ -14,7 +14,7 @@ The top comment of the issue is edited so that it's always up-to-date with the l
 
 ## How do I propose something?
 
-You can present it at the next HackTogether! Contact @peey to make this happen. We are using this repo to track all the ideas so you should also [open an issue from idea or problem template](https://github.com/IIIT-Delhi/hacktogethers/issues/new/choose).
+You can present it at the next HackTogether! Contact @peey to make this happen. We are using this repo to track all the ideas so you should also [open an issue from idea or problem templates](https://github.com/IIIT-Delhi/hacktogethers/issues/new/choose).
 
 Do make sure that it falls under the scope of Byld's projects (see intro). If it doesn't, then ProjectHub isn't the right place for it.
 
@@ -30,11 +30,11 @@ You'll find that to build things which are actually usable, you have to keep the
 
 ## Rough Sketch for the Session
 
-In the beginning of the session, presenters pitch some problems, ideas, or implementations. After that it'll just be you, your code, snacks and hacking away into the night. You can collaborate with anyone you like or work on something on your own.
+At the beginning of the session, presenters pitch some problems, ideas, or implementations. After that, it'll just be you, your code, snacks and hacking away into the night. You can collaborate with anyone you like or work on something on your own.
 
-It's very important to document and commit all the work you've done so far before you wrap up. Your hours of coding and figuring things out would be wasted if you or someone else is not able to continue it. An admin / session host will update 
+It's very important to document and commit all the work you've done so far before you wrap up. Your hours of coding and figuring things out will be wasted if you or someone else is not able to continue it. An admin / session host will update 
 
-This is a very rough sketch, and we'll figure out details as we have more of these events. If you have suggestions, feel free to contact @peey.
+This is a very rough sketch, and we'll figure out details as we have more of these events. If you have suggestions, feel free to contact [@peey](http://github.com/peey).
 
 ## I've got more questions
 
